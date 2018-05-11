@@ -8,11 +8,7 @@ const Header = (props) => {
         </div>
     );
 };
-
-
 Header.defaultProps = {
     title: 'Indecision'
 }
-
-
 export default Header;
