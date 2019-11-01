@@ -2,6 +2,9 @@
   "name": "indecisionApp",
   "version": "1.0.0",
   "main": "index.js",
+    "engines": {
+    "node": "12.13.0"
+  },
   "author": "ted",
   "license": "MIT",
   "scripts": {
